@@ -124,3 +124,6 @@ This command lists all stashed changesets.
 
 Usage: git stash drop  
 This command discards the most recently stashed changeset.
+
+#git commands demonstration video link:
+https://youtu.be/nFTYxhlCR2E
